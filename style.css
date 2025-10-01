@@ -10,22 +10,31 @@ body{
     font-weight: 100;
    
 }
-#damn {
-    background-color: rgb(255, 255, 255);
+#dadespersonals {
+    /*background-color: rgb(255, 255, 255);*/
+    
 }
 
 h2 {
-    background-color: rgb(108, 110, 112);
+    /*background-color: rgb(108, 110, 112);*/
     font-family: "Archivo Black", sans-serif;
 
 }
 ul {
-    background-color: rgb(238, 247, 255);
+  /* background-color: rgb(238, 247, 255);*/
    font-family: "Plus Jakarta Sans", sans-serif;
 
 }
 
-#foto {
-      margin-left: 1000px;
 
+section {
+    width: 500px;
+    margin-left: 10px;
+    display: inline-block;
+
+}
+
+img {
+    display: block;
+    margin: auto
 }
