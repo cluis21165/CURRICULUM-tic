@@ -31,6 +31,12 @@ function afegirInfo(){
     llista.appendChild(element)
 }
 
-function color(){
-    
+function desapareix(){
+    document.getElementById("boody").style = "display:none"
+   
+}
+
+function main(){
+    document.getElementById("foto").style = "width:800px"
+
 }
