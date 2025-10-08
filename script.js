@@ -14,9 +14,9 @@ function harryPotter(){
 }
 
 function canviaFons(){
-    let body = document.getElementsByTagName("body")^[0]
+    let body = document.getElementsByTagName("body")[0]
     let foto = prompt("¿DÓNDE QUIERES VIAJAR?")
-    body.style = "backround-image: url('"+foto+"'); backround-size: cover;";
+    body.style = "background-image: url('"+foto+"'); background-size: cover;";
 }
 
 function tradueix(){
